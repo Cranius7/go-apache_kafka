@@ -10,7 +10,7 @@ This repository contains a high availability microservice built with Golang, whi
 2. **Installation**:
    - Clone the repository:
      ```
-     git clone 
+     git clone https://github.com/Cranius7/go-apache_kafka.git
      ```
 
 3. **Build and Run**:
